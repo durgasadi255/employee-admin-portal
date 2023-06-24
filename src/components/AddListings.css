@@ -1,0 +1,25 @@
+label{
+    font-size: 30px;
+}
+input{
+    font-size: 25px;
+    margin: 10px;
+    opacity: 70%;
+}
+.add{
+    width: 20%;
+    height: 50%;
+    background-color:  rgb(37, 37, 139);
+    font-size: 30px;
+    margin-top: 25px;
+    color: aliceblue;
+    border-radius: 8px;
+    padding: 8px;
+    transition: background-color 0.3s;
+    transform: scale(1);
+}
+
+.add:hover{
+    background-color: #0fa9f0;
+    transform: scale(1.05);
+}

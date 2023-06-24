@@ -1,0 +1,13 @@
+body {
+  margin: 0;
+  padding: 0;
+  height: 100%;
+  background-image: url("C:\Users\user\Downloads\background.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+
+  width: 100%;
+  color: aliceblue;
+  text-align: center;
+}
